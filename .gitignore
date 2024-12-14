@@ -190,4 +190,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/go,macos,windows,visualstudiocode,jetbrains+all
