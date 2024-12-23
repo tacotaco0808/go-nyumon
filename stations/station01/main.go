@@ -3,5 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Station01")
+	fmt.Println("Start FizzBuzz....")
+
+	FizzBuzz() // この関数を実装する
+
+	fmt.Println("FizzBuzz completed!")
 }
