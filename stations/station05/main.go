@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
-
 func main() {
-	fmt.Println("Station05")
+	sampleFile := "./sample.txt"
+	CheckFileExist(sampleFile)
+
+	notExistFile := "./abc.txt"
+	CheckFileExist(notExistFile)
 }
+
+func CheckFileExist(path string) {}
