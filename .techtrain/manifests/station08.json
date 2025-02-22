@@ -1,0 +1,12 @@
+{
+  "name": "Station 08",
+  "id": 8,
+  "prepare": [],
+  "tests": [
+    {
+      "type": "go-test",
+      "module": true,
+      "path": "./tests/station08_test.go"
+    }
+  ]
+} 
