@@ -6,7 +6,7 @@
     {
       "type": "go-test",
       "module": true,
-      "path": "./stations/station01/main_test.go"
+      "path": "./stations/station01/"
     }
   ]
-} 
+}

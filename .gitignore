@@ -193,3 +193,4 @@ $RECYCLE.BIN/
 .idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/go,macos,windows,visualstudiocode,jetbrains+all
+.techtrain/config.toml
